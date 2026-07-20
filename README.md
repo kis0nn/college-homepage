@@ -1,2 +1,0 @@
-# college-homepage
-final example
